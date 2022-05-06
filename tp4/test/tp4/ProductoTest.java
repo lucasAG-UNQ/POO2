@@ -32,4 +32,7 @@ public class ProductoTest {
 		arroz.aumentarPrecio(1.5);
 		assertEquals(new Double(20.4), arroz.getPrecio());
 	}
+	
+	
+	
 }
